@@ -1,0 +1,11 @@
+html, body {
+  background-color: var(--bs-gray-900);
+}
+
+.container {
+  margin: 20% 16px 16px 16px;
+}
+
+h1 {
+  color: aliceblue;
+}
